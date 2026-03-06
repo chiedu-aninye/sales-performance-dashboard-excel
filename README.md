@@ -8,7 +8,7 @@ I worked with 1,953 transactions spanning four U.S. regions, three product categ
 
 ## 📸 Dashboard Preview
 
-![Sales Performance Dashboard](Screenshot 1.png)
+![Sales Performance Dashboard](screenshot1.png)
 
 ---
 
